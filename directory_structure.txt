@@ -1,0 +1,30 @@
+steganography_project/
+│
+├── manage.py
+├── steganography_project/
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── steganography/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── tests.py
+│   ├── views.py
+│   ├── urls.py
+│   └── templates/
+│       ├── home.html
+│       ├── encrypt.html
+│       ├── decrypt.html
+│       └── learn.html
+│
+├── static/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+└── db.sqlite3
